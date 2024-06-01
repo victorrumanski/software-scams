@@ -26,3 +26,4 @@ Which at the end of the day are the Only Things that matter in software developm
 - JSF
 - J2EE
 - EJB (2 and 3)
+- XML Webservices
