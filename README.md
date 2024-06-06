@@ -20,6 +20,7 @@ Which at the end of the day are the Only Things that matter in software developm
 - ORMs
 - Kubernetes
 - Microservices because you can hire dozens of devs and they can work concurrently on different parts of the system
+- GraphQL
 
 ### Scams developers don't fall anymore:
 
@@ -27,3 +28,4 @@ Which at the end of the day are the Only Things that matter in software developm
 - J2EE
 - EJB (2 and 3)
 - XML Webservices
+- SOAP / WSDL
